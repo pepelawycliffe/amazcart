@@ -1,0 +1,283 @@
+
+
+
+.transfarent-btn {
+    background-color: Transparent;
+    background-repeat: no-repeat;
+    border: none;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+
+dl,
+ol,
+ul {
+    margin-top: 1rem !important;
+    margin-bottom: 1rem !important;
+}
+
+.primary_bulet_checkbox .label_name {
+    font-size: 14px;
+    line-height: 25px;
+    font-weight: 500;
+    font-family: "Jost", sans-serif;
+    color: #202E3B;
+    margin-bottom: 0;
+}
+
+.package_div {
+    margin-top: 20px;
+}
+
+.delivery_des_div {
+    background-color: rgba(0, 0, 0, .03);
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: 5px;
+    min-height: 100px;
+    min-width: 265px;
+}
+.delivery_des_ul{
+    list-style: none;
+}
+ul.delivery_des_ul li {
+    padding: 1px;
+    color: #222;
+}
+.delivery_title{
+    font-size: 16px;
+    color: #222;
+    font-weight: 500;
+}
+.font-weight-400{
+    font-weight: 400;
+}
+
+.single_product_div {
+    margin-top: 12px;
+    border: 1px solid #ddd;
+    padding: 12px;
+    border-radius: 2px;
+}
+.single_product_div div{
+    justify-content: center;
+    align-items: center;
+}
+
+.single_product_name_div {}
+
+.single_product_name_div p {
+    line-height: 18px;
+}
+
+.single_product_price_div {}
+
+.single_product_qty_div {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.single_product_price_div p {
+    line-height: 18px;
+}
+
+.single_product_qty_div p {
+    line-height: 18px;
+}
+
+.shipping_information {
+    background-color: #f4f7f9;
+    border: 1px solid #e2e6eb;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#modal_add_new {
+    margin-top: 4px;
+    margin-left: 5px;
+    border-left: 1px solid;
+}
+
+#modal_add_new_billing {
+    margin-top: 4px;
+    margin-left: 5px;
+    border-left: 1px solid;
+}
+
+.order_submit_btn {
+    width: 100%;
+}
+
+.d-inline {
+    display: inline;
+}
+
+.single_img_div {
+    height: 100px;
+    width: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    display: flex;
+}
+.single_img_div img {
+    max-height: 100px;
+    max-width: 90%;
+}
+
+.selling_original_price {
+    text-decoration: line-through;
+}
+
+#customer_email_new {
+    margin-top: 9px;
+}
+
+#customer_phone_new {
+    margin-top: 9px;
+}
+
+.mt-20 {
+    margin-bottom: 20px;
+}
+
+.couponCodeDiv input {
+    border: 1px solid #e4e7e9;
+    border-radius: 0;
+    height: 50px;
+    padding: .375rem 1.5rem;
+    margin-bottom: 0px !important;
+}
+
+.input_group_text {
+    background-color: #ff0027;
+    border-radius: 0;
+    border: 1px solid transparent;
+    color: #fff;
+    font-size: 13px;
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 13px 30px;
+    cursor: pointer;
+}
+
+#coupon_delete {
+    cursor: pointer;
+    color: #ff0027;
+}
+
+.list {
+    min-height: 100px;
+    max-height: 350px;
+    overflow: scroll !important;
+    scroll-behavior: smooth !important;
+}
+
+#guest_shipping_phone_new_btn {
+    margin-top: 0px !important;
+}
+
+#guest_shipping_email_new_btn {
+    margin-top: 0px !important;
+}
+
+.checkout_form {
+    background-color: #F4F4F4;
+    padding-bottom: 40px;
+}
+.billing_address.payment_option {
+    padding: 30px 25px;
+    background: #fff;
+}
+.billing_address {
+    background: #FFFFFF;
+    padding: 30px;
+}
+.billing_address .order_information {
+    padding: 0;
+    background-color: transparent;
+    border: 0;
+}
+.billing_address .shipping_information {
+    background-color: transparent;
+    border: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
+.package_div{}
+.package_div .card{
+    border: 0 !important;
+}
+.package_div .card .card-header{
+    border: 0;
+    border-bottom: 1px solid #EEF0F4;
+    border-radius: 0 !important;
+
+}
+.delivery_des_div {
+    background-color: #fff;
+    border: 1px solid #2196F3;
+    border-radius: 5px;
+}
+.delivery_des_div {
+    background-color: #fff;
+    border: 1px solid #2196F3;
+    border-radius: 5px;
+    display: inline-flex;
+    padding: 0 30px 0px 0px;
+}
+.package_div .card .card-header{
+    background-color: #FFFFFF;
+}
+.main_card_header{
+    background-color: #FFFFFF;
+    padding: 20px;
+    border: none;
+}
+.main_card{
+    border: none;
+    margin-top: 20px;
+}
+.offer_prise {
+    background: #29c489;
+    width: 52px;
+    height: 25px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #fff;
+    white-space: nowrap;
+}
+.price_with_dis {
+    display: flex;
+    grid-gap: 5px;
+}
+.price_tax_div p, .qty_p{
+    white-space: nowrap;
+    font-weight: 500;
+    color: #222;
+}
+.name_p{
+    color: #222;
+    font-weight: 500;
+}
+.variation_name{
+    font-weight: 400;
+    font-size: 13px;
+}
+.wallet_balance{
+    font-size: 12px!important;
+    white-space: nowrap;
+}
+.order_submit_btn {
+    padding: 14.5px 13px!important;
+}
+.curent_prise {
+    font-weight: 500;
+    color: #8f8f8f;
+    white-space: nowrap;
+}
+

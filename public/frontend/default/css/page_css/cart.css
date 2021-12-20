@@ -1,0 +1,57 @@
+
+
+
+    .price_rate{
+        text-decoration: none!important;
+        color: #212529!important;
+    }
+    .btn_1{
+        cursor: pointer;
+    }
+    .disable {
+        pointer-events: none;
+        cursor: default;
+    }
+    .shipping_package{
+        display: block;
+        font-size: 12px;
+        font-weight: 300;
+        padding-bottom: 5px;
+        margin-left: 5px;
+    }
+    .shipping_method_modal{
+        margin-top: 200px;
+    }
+    .shipping_modal_table{
+
+    }
+    .shipping_modal_table p{
+        font-size: 14px;
+        font-weight: 400;
+        color: #8F8F8F;
+    }
+    .shipping_modal_table td {
+        padding: 10px 15px;
+    }
+    .shipping_modal_table th {
+        padding: 10px 15px !important;
+        font-size: 16px;
+        font-weight: 500;
+    }
+    .table.shipping_modal_table thead th {
+        border-bottom: 1px solid #EEF0F4;
+    }
+    .selected_shipping_text{
+        font-weight: 500!important;
+        color: #1b1717!important;
+    }
+    .thumb {
+        display: flex;
+        align-items: center;
+        height: 100px;
+        width: 100px;
+        justify-content: center;
+        position: relative;
+        margin: 0 auto;
+    }
+
