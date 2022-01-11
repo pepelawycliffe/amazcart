@@ -9,10 +9,10 @@ Guest Checkout<br>
 Physical Product<br>
 Digital Product<br>
 Home Page Builder<br>
-Unlimited Email Template Creation
-Dynamic Slider
-Multi Langual
-Multi Currency
+Unlimited Email Template Creation<br>
+Dynamic Slider<br>
+Multi Langual<br>
+Multi Currency<br>
 Order Management
 Brands
 Verified Reviews
