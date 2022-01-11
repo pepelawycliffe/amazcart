@@ -21,11 +21,11 @@ New User Zone<br>
 Trusted Seller<br>
 Wishlist<br>
 Dynamic Coupon<br>
-Guest Checkout
-Multi Level Category
-Category wise comission Setup like Daraz
-Product Rating
-Product Gallery with Zoom
+Guest Checkout<br>
+Multi Level Category<br>
+Category wise comission Setup like Daraz<br>
+Product Rating<br>
+Product Gallery with Zoom<br>
 Social Login
 Google Recaptcha
 Newsletter
