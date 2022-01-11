@@ -17,10 +17,10 @@ Order Management<br>
 Brands<br>
 Verified Reviews<br>
 Product Deals<br>
-New User Zone
-Trusted Seller
-Wishlist
-Dynamic Coupon
+New User Zone<br>
+Trusted Seller<br>
+Wishlist<br>
+Dynamic Coupon<br>
 Guest Checkout
 Multi Level Category
 Category wise comission Setup like Daraz
