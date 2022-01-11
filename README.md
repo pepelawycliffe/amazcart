@@ -32,11 +32,11 @@ Newsletter<br>
 Product Attribute<br>
 Strong Security<br>
 Product Compare<br>
-Quick Buy
-Google Analytics
-Facebook Pixel
-PWA Ready
-One Click Demo Import
+Quick Buy<br>
+Google Analytics<br>
+Facebook Pixel<br>
+PWA Ready<br>
+One Click Demo Import<br>
 Custom SMS gateway Integartion
 New Features
 Facebook Messanger integrate
