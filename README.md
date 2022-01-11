@@ -26,12 +26,12 @@ Multi Level Category<br>
 Category wise comission Setup like Daraz<br>
 Product Rating<br>
 Product Gallery with Zoom<br>
-Social Login
-Google Recaptcha
-Newsletter
-Product Attribute
-Strong Security
-Product Compare
+Social Login<br>
+Google Recaptcha<br>
+Newsletter<br>
+Product Attribute<br>
+Strong Security<br>
+Product Compare<br>
 Quick Buy
 Google Analytics
 Facebook Pixel
