@@ -13,10 +13,10 @@ Unlimited Email Template Creation<br>
 Dynamic Slider<br>
 Multi Langual<br>
 Multi Currency<br>
-Order Management
-Brands
-Verified Reviews
-Product Deals
+Order Management<br>
+Brands<br>
+Verified Reviews<br>
+Product Deals<br>
 New User Zone
 Trusted Seller
 Wishlist
