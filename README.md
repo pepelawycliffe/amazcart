@@ -5,10 +5,10 @@
 Advanced Mega Menu Builder<br>
 Most of the Task Ajax based<br>
 Gift Cart<br>
-Guest Checkout
-Physical Product
-Digital Product
-Home Page Builder
+Guest Checkout<br>
+Physical Product<br>
+Digital Product<br>
+Home Page Builder<br>
 Unlimited Email Template Creation
 Dynamic Slider
 Multi Langual
